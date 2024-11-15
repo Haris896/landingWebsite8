@@ -142,7 +142,7 @@ nav {
 }
 
 .header__image.reveal {
-  background-image: url("images/header.png");
+  background-image: url("header.png");
 }
 
 .header__image.reveal::after {
